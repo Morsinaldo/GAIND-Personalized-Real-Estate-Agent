@@ -1,6 +1,6 @@
 # Personalized Real Estate Agent
 
-O objetivo deste projeto é criar uma experiência personalizada para cada comprador de uma empresa imobiliária, tornando o processo de pesquisa de imóveis mais envolvente e adaptado às preferências individuais. Para isso, desenvolveu-se um aplicativo chamado "HomeMatch", o qual utiliza Large Language Models (LLMs) e bancos de dados vetoriais para transformar listagens imobiliárias padrão em narrativas personalizadas que ressoam com as preferências e necessidades exclusivas dos potenciais compradores.
+The goal of this project is to create a personalized experience for each buyer of a real estate company, making the property search process more engaging and tailored to individual preferences. To achieve this, an application called "HomeMatch" was developed, which uses Large Language Models (LLMs) and vector databases to transform standard real estate listings into personalized narratives that resonate with potential buyers' unique preferences and needs.
 
 ## Core Components of "HomeMatch"
 
